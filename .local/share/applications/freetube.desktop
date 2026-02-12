@@ -1,0 +1,6 @@
+[Desktop Entry]
+
+Name=Freetube
+Exec=/home/user/applications/freetube/freetube.AppImage
+Icon=/home/user/applications/freetube/freetube.png
+Type=Application

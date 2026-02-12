@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Since I use these in virtual machines, I have set the caps key to escape on
+# the host OS to workaround a bug. So I haven't set caps:swapescape here.
+
+xset r rate 180 90
+setxkbmap -option caps:super,altwin:menu_win
+setxkbmap gb

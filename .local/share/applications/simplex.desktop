@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Simplex
+Exec=/home/user/applications/simplex/simplex-desktop-x86_64.AppImage
+Icon=/home/user/applications/simplex/simplex.png
+Type=Application

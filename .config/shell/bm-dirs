@@ -1,0 +1,24 @@
+# You can add comments to these files with #
+cac ${XDG_CACHE_HOME:-$HOME/.cache}
+cf  ${XDG_CONFIG_HOME:-$HOME/.config}
+D   ${XDG_DOWNLOAD_DIR:-$HOME/Downloads}
+d   ${XDG_DOCUMENTS_DIR:-$HOME/sync/documents}
+dt  ${XDG_DATA_HOME:-$HOME/.local/share}
+rr  $HOME/.local/src
+dw  $HOME/.local/src/dwm
+h   $HOME
+mn  /mnt
+pp  ${XDG_PICTURES_DIR:-$HOME/Pictures}
+sc  $HOME/.local/bin
+src $HOME/.local/src
+S $HOME/sync
+W $HOME/sync/wallpapers/
+L $HOME/library
+rv $HOME/RiseupVPN-OpenVPN
+a $HOME/applications
+ac $HOME/applications/simplex
+af $HOME/applications/freetube
+n $HOME/sync/notebook
+co $HOME/sync/programming/
+sf $HOME/sync/school
+m $HOME/music
